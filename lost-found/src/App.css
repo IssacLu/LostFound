@@ -1,0 +1,51 @@
+.App {
+ width: 400px;
+ height: 100%;
+ background: rgb(238,238,238);
+ margin-left: 20px;
+}
+.header{
+  width: 400px;
+  height: 50px;
+  background: rgb(0,161,233);
+}
+.header p{
+  font-size: 20px;
+  color: white;
+  padding-top: 10px;
+  padding-left: 15px;
+  float: left;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.header img{
+  width: 20px;
+  height: 20px;
+  color: white;
+  margin-top: 15px;
+}
+.img1{
+  padding-left: 200px;
+}
+.img2{
+  padding-left: 20px;
+}
+.lost{
+  width: 200px;
+  height: 30px;
+  float: left;
+  text-align: center;
+  line-height: 30px;
+  color: gray;
+}
+.found{
+  width: 200px;
+  height: 30px;
+  float: right;
+  text-align: center;
+  line-height: 30px;
+  color: gray;
+}
+.lost button{
+  outline-style: none;
+}
